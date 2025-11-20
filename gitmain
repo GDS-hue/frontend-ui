@@ -1,0 +1,12 @@
+## Description
+This PR adds email alert notifications and integrates the new message queue handler.
+
+## Checklist
+- [ ] Code changes implemented
+- [ ] Unit tests added/updated
+- [ ] Updated documentation (if required)
+- [ ] Verified on local environment
+- [ ] No breaking changes introduced
+
+## Related Issue
+Closes #<issue-number> (optional)
